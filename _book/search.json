@@ -680,5 +680,15 @@
     "crumbs": [
       "**References**"
     ]
+  },
+  {
+    "objectID": "L11_powerpoint-test.html",
+    "href": "L11_powerpoint-test.html",
+    "title": "12  Powerpoint embed test",
+    "section": "",
+    "text": "This is an embedded &lt;a target=\"_blank\" href=\"https://office.com\"&gt;Microsoft Office&lt;/a&gt; presentation, powered by &lt;a target=\"_blank\" href=\"https://office.com/webapps\"&gt;Office&lt;/a&gt;.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Powerpoint embed test</span>"
+    ]
   }
 ]

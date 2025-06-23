@@ -37,6 +37,7 @@ book:
       chapters:
         - L07_models-and-data.qmd
         - L08_stochastic-models.qmd
+    - L11_powerpoint-test.qmd
     - references.qmd
   repo-url: https://github.com/arnold-c/SISMID-Module-02_2025
   repo-actions: [edit]

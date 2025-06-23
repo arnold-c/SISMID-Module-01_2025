@@ -1,0 +1,13 @@
+---
+title: Powerpoint embed test
+format:
+    html:
+        page-layout: full
+metadata-files:
+  - metadata/matthewferrari.yml
+---
+
+```{=html}
+<iframe src="https://1drv.ms/p/c/f301b3618031029a/IQSaAjGAYbMBIIDzxVsCAAAAAaCG25JcDqs392xEjqB843E?em=2&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=1" width="1023px" height="606px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+```
+
